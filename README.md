@@ -22,15 +22,19 @@ if not available.
 In general, what is important to us is your familiarity with software development concepts.
 
 ## How to deliver your solution
-We expect a pull request in the repository we provided you from your branch to main. 
+Submit a link to your public repository for this project. 
 Please include a README describing the steps and decisions you took regarding 
 architecture, technologies, and other aspects of the service you feel are important.
 
-We don't expect everything will be 100% done and polished; feel free to prioritize.
+We don't expect everything will be 100% done and polished; feel free to prioritize, and understand that
+for a role that we expect you to learn from we don't need you to be the best, yet😊
 
-We expect you to work two to three hours on this project. If you can not finish 
-this assignment in time, add a few comments in the README about what is missing 
-and your estimate of how long it would take to complete it.
+The purpose of this assignment is for us to gain an idea of the strength of your foundation.
+
+We expect you to work 4 to 5 hours on this project. If you can not finish 
+this assignment in time, add a few comments in your README about what is missing 
+and your estimate of how long it would take to complete it,just keep in mind that it is truly OK if you do not complete
+just do your best and have fun
 
 ## Resources
   * API KEY: 7cbf8d07a0c09237c3c08d8e5127fd63
